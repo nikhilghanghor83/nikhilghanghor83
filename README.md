@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 . 
 
-
+- I'm a 3rd year CS undergrad from Indian Institute of Information Technology , Kottayam. 
 - 🔭 I’m currently working on Natural Language Processing and Computer Vision
 - 🌱 I’m currently learning about Self - Supervised Machine Learning , MultiModal Machine Learning and Visual Linguistic Transformers
 - 👯 I’m looking to collaborate on projects on machine learning , deep learning , natural language processing and computer vision

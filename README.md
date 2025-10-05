@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil Kumar  
+# 👋 Hi, I'm Nikhil Kumar Ghanghor
 
 🎓 **Machine Learning Engineer | AdTech | NLP | Computer Vision**
 

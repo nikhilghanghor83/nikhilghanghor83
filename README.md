@@ -78,4 +78,5 @@
 |-----------|---------------|
 | **Languages** | Python, C++, JavaScript, Golang |
 | **Frameworks** | PyTorch, TensorFlow, Keras, Scikit-learn, Airflow, Flyte |
-| **Tools** | Git, MongoDB, MyS
+| **Tools** | Git, MongoDB, MySQL, Redis, Cassandra, Spark
+

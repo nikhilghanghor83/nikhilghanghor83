@@ -13,7 +13,8 @@
   - **Mixture-of-Experts (MoE)** architectures  
   - **LLMs for AdTech**  
   - **Ranking bias & interpretability**  
-  - **Multi-modal learning** (text + vision)  
+  - **Multi-modal learning** (text + vision)
+  - **Reinforcement learning and counterfactuals**
 
 ---
 
